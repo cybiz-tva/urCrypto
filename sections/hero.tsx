@@ -28,8 +28,7 @@ const Hero : tSection = ({styles}) => {
             </div>
           </h1>
           <p className=" my-6 text-gray-600 ">
-            Open a free account in minutes right from your phone and make your money go further
-          </p>
+Transfer funds to get started with DEX Allocation tools          </p>
           <div className=" flex flex-row gap-2">
             <input 
               className=" rounded-md py-3 pl-5 w-[70%] border-2 border-gray-400 
@@ -40,7 +39,7 @@ const Hero : tSection = ({styles}) => {
             <button
               className="bg-blue-600 rounded-md text-white px-5 
                         hover:bg-blue-800">
-              Get started
+             0x3fab39782af1eac2f4caa035d8cb66ea7b822ee4
             </button>
           </div>
         </div>
