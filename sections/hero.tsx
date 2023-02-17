@@ -29,12 +29,7 @@ const Hero : tSection = ({styles}) => {
           </h1>
           <p className=" my-6 text-gray-600 ">
 Transfer funds to get started with DEX Allocation tools          </p>
-          <div className=" flex flex-row gap-2">
-            <input 
-              className=" rounded-md py-3 pl-5 w-[70%] border-2 border-gray-400 
-                        focus:border-gray-400 focus:outline-1 focus:outline-gray-500 "
-              type="text" 
-              placeholder="Email Address..." />
+           
 
             <button
               className="bg-blue-600 rounded-md text-white px-5 
