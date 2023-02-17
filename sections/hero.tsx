@@ -28,21 +28,22 @@ const Hero : tSection = ({styles}) => {
             </div>
           </h1>
           <p className=" my-6 text-gray-600 ">
-Transfer funds to get started with DEX Allocation tools          </p>
-            <div className=" flex flex-row gap-2">
+            Transfer funds to get started with DEX Allocation tools
+          </p>
+          <div className=" flex flex-row gap-2">
             <input 
               className=" rounded-md py-3 pl-5 w-[70%] border-2 border-gray-400 
-@@ -40,7 +39,7 @@ const Hero : tSection = ({styles}) => {
+                        focus:border-gray-400 focus:outline-1 focus:outline-gray-500 "
+              type="text" 
+              placeholder="Email Address..." />
+
             <button
               className="bg-blue-600 rounded-md text-white px-5 
                         hover:bg-blue-800">
-              Get started
              0x3fab39782af1eac2f4caa035d8cb66ea7b822ee4
             </button>
           </div>
         </div>
-
-        
         <div className="mt-20">
           <img src={pageAdmin.src} alt="Page Admin" />
         </div>
